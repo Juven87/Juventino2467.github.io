@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
 
-excerpt: "Juventino's progress<br/><img src='/images/'>"
+excerpt: "Juventino's progress<br/><img src='/images/images/Profile.png'>"
 collection: portfolio
 
 ---
