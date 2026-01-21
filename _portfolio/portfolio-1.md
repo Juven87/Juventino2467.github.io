@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Juventino's progress<br/><img src='/images/!.png'>"
+title: "Portfolio item number 1"!
+
+excerpt: "Juventino's progress<br/><img src='/images/[Profile](https://github.com/user-attachments/assets/4a5f34c0-3443-4625-ae4c-f4f36d1ced2e)'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is Where i will be adding all my work and progress.
